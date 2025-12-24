@@ -1,0 +1,26 @@
+"For String"
+
+1. length()
+2. charAt()
+3. indexof()
+4. compareTo()
+5. contains()
+6. startWith()
+7. endsWith()
+8. toLowercase()
+9. toUppercase()
+10. concat()
+11. substring()
+12. equals()
+13. ==
+
+
+
+"For StringBuilder"
+
+1. setCharAT()
+2. append()
+3. insert()
+4. deleteCharAt()
+5. delete()
+6. reverse()
